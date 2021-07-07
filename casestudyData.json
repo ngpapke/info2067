@@ -110,7 +110,7 @@
 		"Description": "Dynamic security enabled printer. Intended to be used with cartridges using only HP original electronic circuitry. Cartridges with modified or non-HP electronic circuitry may not work, and those that work today may not work in the future. Print, Scan, Copy. CKYM Thermal Inkjet. 1200 x 1200 DPI. Up to 10 ppm simplex. Monthly Duty Cycle: 1000 pages. Copy: 300 x 300 dpi, 4 cpm. Scan: Flatbed, ADF CIS,1200 DPI. Connectivity: 1 Hi-Speed USB 2.0, 1 Wi-Fi 802.11ac (dual band). 100 sheet input, 25 sheet output. Auto Document Feeder: Standard, 35 Sheets. Duplex Options: Automatic (standard). Power indicator display. Energy Star Certified. 1 Year Limited Manufacturer Warranty"
 	},
 	{
-		"BRAND": "CANON
+		"BRAND": "CANON",
 		"ProductName": "Canon imageCLASS MF262dw Monochrome Laser Printer",
 		"GraphicName": "Canon imageCLASS Monochrome Laser Printer",
 		"CostPrice": "200",

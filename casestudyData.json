@@ -1,6 +1,7 @@
 [
 	{
 		"BRAND": "HP",
+		"ProductId": "HPOJPRO6978",
 		"ProductName": "HP OfficeJet Pro 6978 All-in-One Colour Inkjet Printer",
 		"GraphicName": "HP Colour Inkjet Printer",
 		"CostPrice": "100",
@@ -11,6 +12,7 @@
 	},
 	{
 		"BRAND": "CANON",
+		"ProductId": "CANPIXTR4527",
 		"ProductName": "Canon PIXMA TR4527 All-in-One Colour Inkjet Printer",
 		"GraphicName": "Canon All-in-One Colour Inkjet Printer",
 		"CostPrice": "80",
@@ -21,6 +23,7 @@
 	},
 	{
 		"BRAND": "BROTHER",
+		"ProductId": "BTRHLL2390",
 		"ProductName": "Brother HL-L2390DW Wireless Monochrome Reliable Laser Printer",
 		"GraphicName": "Wireless Monochrome Reliable Laser Printer",
 		"CostPrice": "180",
@@ -31,6 +34,7 @@
 	},
 	{
 		"BRAND": "EPSON",
+		"ProductId": "EPNET2720",
 		"ProductName": "Epson EcoTank ET-2720 All-in-One Colour Cartridge-Free Inkjet Printer",
 		"GraphicName": "Colour Cartridge-Free Inkjet Printer",
 		"CostPrice": "290",
@@ -41,6 +45,7 @@
 	},
 	{
 		"BRAND": "HP",
+		"ProductId": "HPDJ3755",
 		"ProductName": "HP DeskJet 3755 All-in-One Wireless Colour Inkjet Printer",
 		"GraphicName": "HP Wireless Colour Inkjet Printer",
 		"CostPrice": "70",
@@ -51,6 +56,7 @@
 	},
 	{
 		"BRAND": "HP",
+		"ProductId": "HPEVY6055",
 		"ProductName": "HP Envy 6055 All-in-One Colour Inkjet Printer",
 		"GraphicName": "HP Colour Inkjet Printer",
 		"CostPrice": "132",
@@ -61,6 +67,7 @@
 	},
 	{
 		"BRAND": "BROTHER",
+		"ProductId": "BTRMFCJ995",
 		"ProductName": "Brother MFC-J995DW All-in-One Colour Inkjet Printer",
 		"GraphicName": "Brother Colour Inkjet Printer",
 		"CostPrice": "250",
@@ -71,6 +78,7 @@
 	},
 	{
 		"BRAND": "EPSON",
+		"ProductId": "EPNEHXP4100",
 		"ProductName": "Epson Expression Home XP-4100 All-in-One Colour Wireless Inkjet Printer",
 		"GraphicName": "Epson Colour Wireless Inkjet Printer",
 		"CostPrice": "70",
@@ -81,6 +89,7 @@
 	},
 	{
 		"BRAND": "BROTHER",
+		"ProductId": "BTRWSMFCJ497",
 		"ProductName": "Brother Work Smart MFC-J497DW All-in-One Colour Inkjet Printer",
 		"GraphicName": "Brother Work Smart Colour Inkjet Printer",
 		"CostPrice": "80",
@@ -91,6 +100,7 @@
 	},
 	{
 		"BRAND": "HP",
+		"ProductId": "HPLJPROM479",
 		"ProductName": "HP LaserJet Pro M479dw Multifunction Colour Laser Printer",
 		"GraphicName": "Canon All-in-One Colour Inkjet Printer",
 		"CostPrice": "400",
@@ -101,6 +111,7 @@
 	},
 	{
 		"BRAND": "HP",
+		"ProductId": "HPEVYPRO6455",
 		"ProductName": "HP ENVY Pro 6455 All-in-One Printer",
 		"GraphicName": "HP ENVY Pro Printer",
 		"CostPrice": "150",
@@ -111,6 +122,7 @@
 	},
 	{
 		"BRAND": "CANON",
+		"ProductId": "CANIMGMF262",
 		"ProductName": "Canon imageCLASS MF262dw Monochrome Laser Printer",
 		"GraphicName": "Canon imageCLASS Monochrome Laser Printer",
 		"CostPrice": "200",
@@ -121,6 +133,7 @@
 	},
 	{
 		"BRAND": "EPSON",
+		"ProductId": "EPNET4760",
 		"ProductName": "Epson EcoTank ET-4760 All-in-One Colour Cartridge-Free Inkjet Printer",
 		"GraphicName": "Epson EcoTank Inkjet Printer",
 		"CostPrice": "500",
@@ -130,7 +143,8 @@
 		"Description": "The fast, wireless, full-featured Cartridge-Free all-in-one with ADF and fax. You can save up to 90 percent with low-cost replacement ink bottles. Ink-jet print technology with print/copy/scan/fax functionality. Max Printing Resolution: Up to 4800 x 1200 dpi (mono), up to 4800 x 1200 dpi (color). Max Printing Speed: Up to 15 ppm (mono), up to 8 ppm (color). 250-sheet tray. Max Copying Speed: Up to 11 ppm (mono), up to 5.5 ppm (color). Borderless copy, ID Copy, remove punched holes, remove shadows. 100 page memory capacity. LAN, USB 2.0, Wi-Fi. 2.4' colour touchscreen. Energy Star Certified. 2-Year Limited Warranty"
 	},
 	{
-		"BRAND": "DYNO",
+		"BRAND": "DYMO",
+		"ProductId": "DMOLW450",
 		"ProductName": "DYMO LabelWriter 450 Label Printer",
 		"GraphicName": "DYMO Label Printer",
 		"CostPrice": "100",
@@ -141,6 +155,7 @@
 	},
 	{
 		"BRAND": "LEXMARK",
+		"ProductId": "LEXB2236",
 		"ProductName": "Lexmark B2236dw Single Function Monochrome Duplex Laser Printer",
 		"GraphicName": "Lexmark Single Function Laser Printer",
 		"CostPrice": "150",

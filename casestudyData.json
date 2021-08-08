@@ -4,9 +4,9 @@
 		"ProductId": "CSBrand1234",
 		"ProductName": "CSBrand Submission Product",
 		"GraphicName": "CSBrand.jpg",
-		"CostPrice": "500.00",
-		"MSRP": "509.99",
-		"QtyOnHand": "1",
+		"CostPrice": "350.00",
+		"MSRP": "409.99",
+		"QtyOnHand": "3",
 		"QtyOnBackOrder": "0",
 		"Description": "This description is for the purpose of product #1 on the case study requirements. Apple AirPrint, HP ePrint, and Google Cloud Print support Two-sided printing, copying, scanning, and faxing with a 35 sheet. Auto Document Feeder. 2.65' CGD touch screen display. 1 GB printer memory Energy Star certified. Dimensions: 18.26'W x 15.35'D x 9'H"
 	},
@@ -15,10 +15,10 @@
 		"ProductId": "CSBrand5678",
 		"ProductName": "CSBrand Submission Product2",
 		"GraphicName": "CSBrand2.png",
-		"CostPrice": "500.00",
-		"MSRP": "599.99",
-		"QtyOnHand": "0",
-		"QtyOnBackOrder": "1",
+		"CostPrice": "200.00",
+		"MSRP": "299.99",
+		"QtyOnHand": "4",
+		"QtyOnBackOrder": "0",
 		"Description": "This description is for the purpose of product #2 on the case study requirements. Apple AirPrint, HP ePrint, and Google Cloud Print support Two-sided printing, copying, scanning, and faxing with a 35 sheet. Auto Document Feeder. 2.65' CGD touch screen display. 1 GB printer memory Energy Star certified. Dimensions: 18.26'W x 15.35'D x 9'H"
 	},
 	{
